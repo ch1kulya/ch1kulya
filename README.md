@@ -1,1 +1,1 @@
-![ch1kulya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ch1kulya&theme=dark&show_icons=true&hide_border=true&layout=compact)![GIF](https://i.ibb.co/gjxYxTC/shigure-goddess.gif)![ch1kulya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ch1kulya&theme=dark&hide_border=true)
+![GIF](https://i.ibb.co/gjxYxTC/shigure-goddess.gif)
