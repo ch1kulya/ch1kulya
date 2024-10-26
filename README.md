@@ -1,1 +1,1 @@
-![GIF](https://i.ibb.co/gjxYxTC/shigure-goddess.gif)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ch1kulya&theme=transparent&hide_border=true&card_width=320&card_height=100&hide_total_contributions=true)](https://git.io/streak-stats)
+![GIF](https://i.ibb.co/gjxYxTC/shigure-goddess.gif)
